@@ -8,7 +8,6 @@ $fillable = [
     "keyboard_clickiness",      # From "whisper quiet" to "angry typewriter".
     "has_rubber_duck",          # Essential debugging tool.
     "git_commit_message",       # "Fixed the thing that I broke last time"
-    "uptime_since_last_break",  # Days without incident.
 ]
 ```
 
