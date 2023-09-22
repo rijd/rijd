@@ -1,6 +1,6 @@
 ```php
 $fillable = [
-    "name",                     # Yonnie K.
+    "name",                     # Yonnie
     "caffeine_level",           # 0 to "Just injected a Red Bull IV"
     "current_mood",             # Options include: "404: Mood not found" or "200: OK"
     "num_of_tabs_open",         # Always more than expected.
